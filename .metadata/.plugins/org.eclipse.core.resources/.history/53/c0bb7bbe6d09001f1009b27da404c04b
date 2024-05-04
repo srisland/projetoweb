@@ -1,0 +1,5 @@
+package br.com.projetoweb.crud.resources.exceptions;
+
+public class ResourceExceptionHandler {
+
+}
